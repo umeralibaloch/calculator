@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: pointer;
+    background-color: gray;
+}
+.textview{
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    width: 203px;
+}
+.main{
+    color: gray;
+   
+}
+table{
+    margin:  auto;
+}
